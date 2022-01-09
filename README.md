@@ -25,7 +25,6 @@
 - Template_matching.pdf (View the notebook as pdf)
 
 ### Authors 
-Author:
 | [<img src="https://github.com/prahalad12345.png?size=115" width=115><br><sub>@prahalad12345</sub>](https://github.com/prahalad12345) |
 | :---: |
 
