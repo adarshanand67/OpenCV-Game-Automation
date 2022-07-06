@@ -21,7 +21,10 @@ Automate the Kick ya Chop game using Template matching and OpenCV. Using Templat
 
 ### Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7TjIkaR3OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/73928744/177584672-229cb024-281f-451f-b036-df9256ad286a.mp4
+
+
 
 - Game Run-1.mp4 (Video of game run to get hiscore)
 - opencv screenshots vid.mp4 (Video of game run showing opencv matching logs)
