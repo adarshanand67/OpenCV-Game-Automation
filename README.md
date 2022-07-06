@@ -1,5 +1,7 @@
 # Kick ya Chop Game automation
 
+Automate the Kick ya Chop game using Template matching and OpenCV. Using Template matching to match the image with right or left log and move onto the oppsite direction avoiding the logs by using keyboard input.
+
 - 📂 **Project Files**
   - 📄 [Final Run.mp4](Final%20Run.mp4)
   - 📄 [Template_Matching.ipynb](Template_Matching.ipynb)
@@ -18,6 +20,8 @@
 - hiscore.png (Image of hiscore)
 
 ### Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7TjIkaR3OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Game Run-1.mp4 (Video of game run to get hiscore)
 - opencv screenshots vid.mp4 (Video of game run showing opencv matching logs)
